@@ -15,7 +15,7 @@ A simple weather application that allows users to fetch and display the current 
 
 ## Screenshots
 
-![Weather App Screenshot](screenshot.png) 
+![Weather App Screenshot](print.png) 
 
 ## Getting Started
 
