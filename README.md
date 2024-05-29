@@ -41,3 +41,5 @@ cd weather-app
 var apiKey = 'YOUR_API_KEY'; // Replace with your OpenWeatherMap API key
 ```
 
+3. Open index.html in your web browser to view the application.
+
