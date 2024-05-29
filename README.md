@@ -34,3 +34,10 @@ Follow these instructions to set up the project on your local machine for develo
 ```sh
 git clone https://github.com/your-github-username/weather-app.git
 cd weather-app
+```
+2. Open index.html in your preferred code editor and replace YOUR_API_KEY in script.js with your actual OpenWeatherMap API key.
+
+```sh
+var apiKey = 'YOUR_API_KEY'; // Replace with your OpenWeatherMap API key
+```
+
