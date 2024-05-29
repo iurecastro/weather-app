@@ -11,7 +11,7 @@ A simple weather application that allows users to fetch and display the current 
 
 ## Demo
 
-[Live Demo](https://iurecastro.github.io/weather-app/) - Replace this with the actual link to your live demo if hosted on GitHub Pages or any other platform.
+[Live Demo](https://iurecastro.github.io/weather-app/) 
 
 ## Screenshots
 
