@@ -17,7 +17,7 @@ A simple weather application that allows users to fetch and display the current 
 
 ![Weather App Screenshot](print.png) 
 
-## Getting Started
+### Getting Started
 
 Follow these instructions to set up the project on your local machine for development and testing purposes.
 
